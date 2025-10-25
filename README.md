@@ -11,6 +11,12 @@ O foco está em destacar **projetos práticos**, **competências técnicas** e *
 
 ---
 
+## 🌐 Visualizar o Portfólio
+
+[Acesse a versão online](https://matheussiqueirahub.github.io/Portfolio-Integrado/) – habilite o GitHub Pages apontando para a branch `main` (pasta raiz) para publicar o arquivo `index.html`.
+
+---
+
 ## 🧩 Estrutura do Projeto
 
 ### 🏗️ HTML
