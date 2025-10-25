@@ -111,3 +111,15 @@ Entre em contato para parcerias, projetos ou oportunidades:
 ├── style.css
 └── README.md
 ```
+
+---
+
+## 🧩 Licença
+
+Este projeto é de uso pessoal e educativo.  
+Sinta-se livre para utilizar como base de estudos, desde que mantenha os devidos créditos.
+
+---
+
+**Desenvolvido por [Matheus Henrique Dias Siqueira](https://github.com/matheussiqueirahub)**  
+📍 Recife – Pernambuco | 💻 Analista de Dados & Desenvolvedor Full Stack
